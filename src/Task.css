@@ -1,0 +1,15 @@
+#maindiv{
+    padding-top: 15%;
+    background-color: black;
+    height: 745px;
+    width: 100%;
+    color: antiquewhite;
+    font-size: larger;
+    font-weight: 800;
+  }
+  
+  #btn{
+    margin: 1%;
+    padding-left: 3%;
+    padding-right: 3%;
+  }
